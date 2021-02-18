@@ -1,5 +1,7 @@
 # CENG435 HW2 - Socket Programming Assignment
 
+This repository contains the files related to the Socket Programming Assignment of the Data Communications and Networking class of METU CENG. The detailed description of the assignment can be found at the [THE2.pdf](https://github.com/frozsgy/ceng435-hw/blob/main/THE2.pdf) file. 
+
 ## How to run?
 
 This project consists of 4 files, and only 2 of them are executables, namely `server.py` and `client.py`. The other files are required by these files, and should be in the same directory with them.
